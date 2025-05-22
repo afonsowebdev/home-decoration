@@ -1,0 +1,6 @@
+============ HEADER ============
+.nav_logo
+Dec Interior
+
+.nav_link
+Início - Sobre - Modelos - Inspirações - Contato - Login
